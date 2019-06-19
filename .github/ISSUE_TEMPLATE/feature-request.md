@@ -26,5 +26,3 @@ Please share a sample usage of this feature.
 
 ### References
 Please provide links to any documentation or standards useful for the implementation of this feature.
-
-*Please remember to use helpful labels.*

@@ -26,5 +26,3 @@ Please list the steps needed to reproduce your issue.
 
 ### Screenshots
 Share any useful screenshots or files concerning this issue. If there is any  *sensitive* information involved, please send this through an email to support@carbonldp.com with the issue reference as the subject.
-
-*Please remember to use helpful labels.*
